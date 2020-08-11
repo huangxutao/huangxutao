@@ -14,7 +14,7 @@ __      _____| | ___ ___  _ __ ___   ___  | |
 - 2020.04.06  [service workder 略知一二](https://note.hxtao.xyz/notes/5e8ae7f7a806f5005f743461)
 
 
-\>\>\> [More notes](http://note.hxtao.xyz/)
+👉  [More notes](http://note.hxtao.xyz/) 💦
 
 <!--
 **huangxutao/huangxutao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
