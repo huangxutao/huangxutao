@@ -30,3 +30,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 专业技能
+
+- 具备跨端（Mobile+PC）开发能力，并且熟悉相关的性能优化
+- 熟悉常见的前端库或框架，对 React 有一定的了解
+- 掌握一定的 Node Server 开发经验
+- 对 webpack/gulp 等构件工具有一定的了解
+- 对网络协议（HTTP/SSL/SOCKET）有一定的了解
+- 接触过 JavaWeb、PHP
+- 对前端工程化有一定的认知
+
+👉 [Detail resume](https://me.hxtao.xyz/) 🈲
+
+
