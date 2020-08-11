@@ -23,6 +23,11 @@
                                              
 ```
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huangxutao&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangxutao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Lastest notes
 
 - 2020.07.21  [整理“初中数学”在前端领域的应用](https://note.hxtao.xyz/notes/5f1709927aa1f101b7abf655)
@@ -58,5 +63,3 @@ Here are some ideas to get you started:
 - 对前端工程化有一定的认知
 
 👉 [Detail resume](https://me.hxtao.xyz/) 🈲
-
-
