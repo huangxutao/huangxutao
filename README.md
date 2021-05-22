@@ -6,12 +6,15 @@
 
 ## Lastest notes
 
-- 2020.07.21  [整理“初中数学”在前端领域的应用](https://note.hxtao.xyz/notes/5f1709927aa1f101b7abf655)
+- 2021.05.21  [关于遍历 DOM 节点](https://note.hxtao.xyz/notes/60a79f2a24e7ec024d9b18b9)
+- 2021.03.01  [有关于图片格式](https://note.hxtao.xyz/notes/603cf9a8a591a501459fd6d5)
+- 2021.02.05  [整理常见的跨页面通信方案](https://note.hxtao.xyz/notes/601d61acca9bed04efea1ea3)
+- 2021.02.13  [整理前端性能优化](https://note.hxtao.xyz/notes/60194c67ca9bed04efea1e40)
 - 2020.07.21  [初探页面可视化搭建](https://note.hxtao.xyz/notes/5f16fc937aa1f101b7abf641)
 - 2020.04.06  [service workder 略知一二](https://note.hxtao.xyz/notes/5e8ae7f7a806f5005f743461)
 
 
-👉  [More notes](http://note.hxtao.xyz/) 💦
+👉  [More notes](http://note.hxtao.xyz/) 💬 💦
 
 <!--
 **huangxutao/huangxutao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
